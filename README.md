@@ -1,8 +1,15 @@
-👋 Hi, I’m Diana
-- Software engineer / SAP HCM / 🇷🇴
- 👀 I’m interested in data analysis, machine learning, process automation
- 🌱 I’m currently learning Tableau, software engineering
-
+👋 Hi, I’m Diana <br>
+- Software engineer / SAP HCM / 🇷🇴 <br>
+ 👀 I’m interested in <br>
+    - Data Analysis
+    - Machine Learning 
+    - Process Automation 
+  <br>  
+ 🌱 I’m currently learning <br>
+    - Tableau
+    - Software Engineering 
+    - SAP solutions
+   
 <!---
 DianaElena99/DianaElena99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
