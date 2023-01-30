@@ -9,6 +9,8 @@
     - Tableau
     - Software Engineering 
     - SAP solutions
+    - ServiceNow
+    - UIPath
    
 <!---
 DianaElena99/DianaElena99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
