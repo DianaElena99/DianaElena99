@@ -1,16 +1,12 @@
-👋 Hi, I’m Diana <br>
-- Software engineer / SAP HCM / 🇷🇴 <br>
+<h3>👋 Hi, I’m Diana <h3>
+ <br>
+- Software engineer / SAP HCM / ASP.NET / 🇷🇴 <br>
  👀 I’m interested in <br>
+    - ASP.NET
+    - React/Angular
+    - Software Engineering
     - Data Analysis
     - Machine Learning 
-    - Process Automation 
-  <br>  
- 🌱 I’m currently learning <br>
-    - Tableau
-    - Software Engineering 
-    - SAP solutions
-    - ServiceNow
-    - UIPath
    
 <!---
 DianaElena99/DianaElena99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
