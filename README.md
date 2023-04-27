@@ -1,4 +1,4 @@
-<h3>👋 Hi, I’m Diana <h3>
+<h3>👋 Hi, I’m Diana </h3>
  <br>
 - Software engineer / SAP HCM / ASP.NET / 🇷🇴 <br>
  👀 I’m interested in <br>
