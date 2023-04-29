@@ -1,6 +1,6 @@
 <h3>👋 Hi, I’m Diana </h3>
  <br>
-- Software engineer / SAP HCM / ASP.NET / 🇷🇴 <br>
+- Software engineer 🇷🇴 <br>
  👀 I’m interested in <br>
     - ASP.NET
     - React/Angular
